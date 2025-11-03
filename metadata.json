@@ -1,0 +1,5 @@
+{
+  "name": "Gdańsk Tram Departures",
+  "description": "A real-time tram departure board for selected stops at PKM Strzyża in Gdańsk, providing up-to-the-minute information for commuters.",
+  "requestFramePermissions": []
+}
