@@ -2,8 +2,6 @@
 
 Aplikacja webowa wyświetlająca w czasie rzeczywistym tablicę odjazdów tramwajów dla przystanków przy węźle przesiadkowym PKM Strzyża w Gdańsku. Została zaprojektowana, aby dostarczać pasażerom aktualne informacje w czystym, czytelnym i nowoczesnym interfejsie.
 
-![Podgląd Aplikacji](https://i.imgur.com/example.png)
-*(Uwaga: Powyższy obrazek jest przykładowy)*
 
 ## ✨ Kluczowe Funkcje
 
