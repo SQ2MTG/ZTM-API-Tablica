@@ -59,7 +59,7 @@ Projekt jest skonfigurowany do działania w specyficznym środowisku dewelopersk
 
 1.  **Sklonuj repozytorium:**
     ```bash
-    git clone <URL_repozytorium>
+    git clone https://github.com/SQ2MTG/ZTM-API-Tablica
     ```
 2.  **Przejdź do katalogu projektu:**
     ```bash
