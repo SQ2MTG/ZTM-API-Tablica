@@ -63,7 +63,7 @@ Projekt jest skonfigurowany do działania w specyficznym środowisku dewelopersk
     ```
 2.  **Przejdź do katalogu projektu:**
     ```bash
-    cd gdansk-tram-departures
+    cd ZTM-API-Tablica
     ```
 3.  **Zainstaluj zależności:**
     ```bash
