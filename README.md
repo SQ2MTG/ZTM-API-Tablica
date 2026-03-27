@@ -3,6 +3,7 @@
 Aplikacja webowa wyświetlająca w czasie rzeczywistym tablicę odjazdów tramwajów dla przystanków przy węźle przesiadkowym PKM Strzyża w Gdańsku. Została zaprojektowana, aby dostarczać pasażerom aktualne informacje w czystym, czytelnym i nowoczesnym interfejsie.
 
 ![Podgląd Aplikacji](https://github.com/SQ2MTG/ZTM-API-Tablica/blob/main/Przechwytywanie.PNG)
+*(Uwaga: Powyższy obrazek jest przykładowy)*
 
 ## ✨ Kluczowe Funkcje
 
@@ -59,11 +60,11 @@ Projekt jest skonfigurowany do działania w specyficznym środowisku dewelopersk
 
 1.  **Sklonuj repozytorium:**
     ```bash
-    git clone https://github.com/SQ2MTG/ZTM-API-Tablica
+    git clone <URL_repozytorium>
     ```
 2.  **Przejdź do katalogu projektu:**
     ```bash
-    cd ZTM-API-Tablica
+    cd gdansk-tram-departures
     ```
 3.  **Zainstaluj zależności:**
     ```bash
